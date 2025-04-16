@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center" style="marign-top: 0">
+<h1 align="center">
    <a href="https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/" target="_blank" align="center">
       MaterialM Free Tailwind Next.js Admin Template
    </a>
