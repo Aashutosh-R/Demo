@@ -169,8 +169,8 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 </th>
 
 <th>
-<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwind templates" style="margin-right: 8px;">
-<span>Tailwind CSS</span>
+<img src="https://skillicons.dev/icons?i=react" height="20" alt="tailwind templates" style="margin-right: 8px;">
+<span>React</span>
 </th>
 <th>
 <img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
@@ -186,13 +186,13 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-tailwind-admin-template/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-tailwind-css-admin-wpn.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/materialm-tailwind-react-admin-template/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/materialM-react-tailwind-pro.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-nuxtjs-admin-wpn.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/materialm-vuetify-nuxt-js-admin-template/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/10/MaterialM-Nuxtjs-pro.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 </td>
@@ -206,32 +206,22 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 
 </th>
 <th>
-<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwind templates" style="margin-right: 8px;">
-<span>Tailwind CSS</span>
-</th>
-<th>
-<img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
-<span>Nuxt</span>
+<img src="https://skillicons.dev/icons?i=vue" height="20" alt="tailwind templates" style="margin-right: 8px;">
+<span>Vue</span>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=33" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg" alt="" style="max-width:140px;">
+  <a href="https://www.wrappixel.com/templates/materialm-material-angular-dashboard-template/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-angular-pro-version.jpg" alt="" style="max-width:140px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-tailwind-admin-template/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-tailwind-css-admin-wpn.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/materialm-vuejs-vuetify-admin-template/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-Vuejs-Pro.jpg" alt="" style="max-width:150px;">
   </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-nuxtjs-admin-wpn.jpg" alt="" style="max-width:150px;">
-  </a>
-</td>
 </td>
   
 </tr>
