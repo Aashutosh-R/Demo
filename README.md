@@ -1,9 +1,6 @@
-
-
-
 <p align="center">
    <a href="https://www.wrappixel.com/" target="_blank">
-      <img src="https://www.wrappixel.com/wp-content/uploads/2023/07/logo-wrappixel.svg" alt="sneat-logo" width="200px" height="auto">
+      <img src="https://adminmart.github.io/template_api/images/brand-logo/WrapPixel-Logo.svg" alt="sneat-logo" width="200px" height="150px">
    </a>
 </p>
 
@@ -15,12 +12,12 @@
    </a>
 </h1>
 
-<p align="center">Download most useful and comprehensive 🚀 Free Bootstrap 5 admin template built for developers 🛠</p>
+<p align="center">Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
 
 
 [![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/2024/08/MaterialM_Free_version.jpg)](https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/)
 
-## ◾ Introduction
+## 👋 Introduction
 
 
 **MaterialM** is a modern, open-source admin dashboard template built with **Next.js** and **Tailwind CSS**, inspired by the principles of Material Design. It offers a clean, minimal UI combined with a powerful development stack, making it ideal for building fast, responsive, and scalable web applications.
@@ -53,7 +50,7 @@ A rich library of **prebuilt UI components**—like modals, dropdowns, navbars, 
 ---
 
 
-## ◾ Notable Libraries and Tools
+## 🛠️ Notable Libraries and Tools
 
 | **Library / Tool**    | **Description**                                                                 |
 |-----------------------|---------------------------------------------------------------------------------|
@@ -66,7 +63,7 @@ A rich library of **prebuilt UI components**—like modals, dropdowns, navbars, 
 
 ---
 
-## ◾ Installation Guide
+## 💾 Installation Guide
 
 Welcome to the **MaterialM Free Tailwind Next.js Admin Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom admin dashboard in no time.
 
@@ -98,7 +95,7 @@ npm run dev
 
 ---
 
-## ◾ Documentation
+## 📝 Documentation
 
 Welcome to the **MaterialM Free Tailwind Next.js Admin Template** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
 
@@ -108,7 +105,7 @@ Welcome to the **MaterialM Free Tailwind Next.js Admin Template** documentation!
 ---
 
 
-## ◾ Pro Version
+## 💎 Pro Version
 
 The Pro Version of the **MaterialM Tailwind Next.js Admin Template** comes packed with essential features—ideal for personal projects, prototypes, or small-scale applications. When you're ready to level up, the Pro Version unlocks a powerful suite of extras, including multiple theme options, advanced UI widgets, real-time notifications, priority support, and a host of other premium tools designed to supercharge your development workflow.
 
@@ -128,7 +125,7 @@ The Pro Version of the **MaterialM Tailwind Next.js Admin Template** comes packe
 ---
 
 
-## ◾ Free vs Pro Version Comparison
+## ⚖️ Free vs Pro Version Comparison
 
 The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provides a solid set of features, perfect for personal projects or small applications. However, for businesses or developers looking to unlock more advanced functionality, the **Pro Version** offers exciting features like **multiple themes**, **advanced widgets**, **real-time notifications**, **priority support**, and much more. 
 
@@ -156,7 +153,7 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 
 ---
 
-## ◾ Other versions
+## 🗂️ Other versions
 
 <table>
 <thead>
@@ -231,7 +228,7 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 ---
 
 
-## ◾ 🤝  Contributing
+##  🤝  Contributing
 
 We welcome contributions from the community to help improve the **MaterialM Free Tailwind Next.js Admin Template**. Whether it’s fixing bugs, adding new features, improving documentation, or sharing ideas — your input is appreciated!
 
@@ -261,15 +258,20 @@ Follow these simple steps to start contributing:
 
 ---
 
-## ◾ Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
+## 🧭 Useful Links
+- <p><a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/">Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/bootstrap-templates/">Bootstrap Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/react-templates/">React Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/framer-templates/">Framer Templates</a> from Wrappixel</p>
+-  <p><a href="https://www.wrappixel.com/templates/category/mui-templates/">Material UI Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/vuetify-templates/">Vuetify Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nextjs-templates/">NextJs Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nuxt-templates/">Nuxt Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/tailwind-dashboard/">Tailwind Templates</a> from Wrappixel</p>
 
 ---
 
-## ◾ We are social
+## 🌐 We are social
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wrappixel)  [![twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/wrappixel)  [![facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/wrappixel)  [![instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/wrappixel)  [![youtube](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)](https://www.youtube.com/wrappixel)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/wrappixel)
