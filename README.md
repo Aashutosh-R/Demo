@@ -162,20 +162,18 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <thead>
 <tr>
 <th>
-
- <span align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="20" alt="Bootstrap Icon" style="vertical-align:middle; margin-right:4px;" />
-  <strong>Bootstrap</strong>
-</span>
+ 
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
+  <span style="font-size: 16px;">Bootstrap</span>
 
 </th>
 
 <th>
-<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwind templates" style="margin-right: 8px; vertical-align:middle;">
+<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwind templates" style="margin-right: 8px;">
 <span>Tailwind CSS</span>
 </th>
 <th>
-<img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px; vertical-align:middle;">
+<img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
 <span>Nuxt</span>
 </th>
 </tr>
@@ -202,9 +200,19 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 </tr>
 
 <tr>
-<th>Angular</th>
-<th>Tailwind CSS</th>
-<th>Nuxt</th>
+<th>
+<img src="https://skillicons.dev/icons?i=angular" height="20" alt="tailwind templates" style="margin-right: 8px;">
+<span>Angular</span>
+
+</th>
+<th>
+<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwind templates" style="margin-right: 8px;">
+<span>Tailwind CSS</span>
+</th>
+<th>
+<img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
+<span>Nuxt</span>
+</th>
 </tr>
 </thead>
 <tbody>
