@@ -13,8 +13,9 @@
 
 <p align="center">Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
 
-
-[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/2024/08/MaterialM_Free_version.jpg)](https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/)
+<div align="center">
+[![materialM Free NextJs Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/2024/08/MaterialM_Free_version.jpg)](https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/)
+</div>
 
 ## 👋 Introduction
 
