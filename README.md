@@ -181,8 +181,8 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=33" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg" alt="" style="max-width:140px;">
+  <a href="https://www.wrappixel.com/templates/materialm-admin-dashboard-template/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/MaterialM-Bootstrap_latest.jpg" alt="" style="max-width:140px;">
   </a>
 </td>
 <td>
