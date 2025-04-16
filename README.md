@@ -1,11 +1,11 @@
 <div align="center">
    <a href="https://www.wrappixel.com/" target="_blank">
-      <img src="https://adminmart.github.io/template_api/images/brand-logo/WrapPixel-Logo.svg" alt="sneat-logo" width="200px" height="150px">
+      <img src="https://adminmart.github.io/template_api/images/brand-logo/WrapPixel-Logo.svg" alt="sneat-logo" width="100px" height="100px">
    </a>
 </div>
 
 
-<h1 align="center">
+<h1 align="center" style="marign-top: 0">
    <a href="https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/" target="_blank" align="center">
       MaterialM Free Tailwind Next.js Admin Template
    </a>
