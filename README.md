@@ -162,9 +162,10 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <thead>
 <tr>
 <th>
- 
-  
-  <span align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="20" style="vertical-align:middle;" /> **Bootstrap**</span>
+ <div style="display:flex; align-items:center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px; vertical-align:middle;">
+  <span style="font-size: 16px;">Bootstrap</span>
+ </div>
 
 </th>
 
