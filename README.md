@@ -166,11 +166,11 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 </th>
 
 <th>
-<img src="https://skillicons.dev/icons?i=react" height="20" alt="tailwind templates" style="margin-right: 8px;">
+<img src="https://skillicons.dev/icons?i=react" height="20" alt="react templates" style="margin-right: 8px;">
 <span>React</span>
 </th>
 <th>
-<img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
+<img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="nuxt templates" style="margin-right: 8px;">
 <span>Nuxt</span>
 </th>
 </tr>
@@ -198,12 +198,12 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 
 <tr>
 <th>
-<img src="https://skillicons.dev/icons?i=angular" height="20" alt="tailwind templates" style="margin-right: 8px;">
+<img src="https://skillicons.dev/icons?i=angular" height="20" alt="angular templates" style="margin-right: 8px;">
 <span>Angular</span>
 
 </th>
 <th>
-<img src="https://skillicons.dev/icons?i=vue" height="20" alt="tailwind templates" style="margin-right: 8px;">
+<img src="https://skillicons.dev/icons?i=vue" height="20" alt="vue templates" style="margin-right: 8px;">
 <span>Vue</span>
 </th>
 </tr>
