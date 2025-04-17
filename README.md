@@ -179,17 +179,17 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <tr>
 <td>
   <a href="https://www.wrappixel.com/templates/materialm-admin-dashboard-template/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/MaterialM-Bootstrap_latest.jpg" alt="" style="max-width:140px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/MaterialM-Bootstrap_latest.jpg" alt="materialM-bootstrap-admin-template" style="max-width:140px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/materialm-tailwind-react-admin-template/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/materialM-react-tailwind-pro.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/materialM-react-tailwind-pro.jpg" alt="materialM-react-admin-template" style="max-width:150px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/materialm-vuetify-nuxt-js-admin-template/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/10/MaterialM-Nuxtjs-pro.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/10/MaterialM-Nuxtjs-pro.jpg" alt="materialM-nuxt-admin-template" style="max-width:150px;">
   </a>
 </td>
 </td>
@@ -212,12 +212,12 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <tr>
 <td>
   <a href="https://www.wrappixel.com/templates/materialm-material-angular-dashboard-template/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-angular-pro-version.jpg" alt="" style="max-width:140px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-angular-pro-version.jpg" alt="materialM-angular-admin-template" style="max-width:140px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/materialm-vuejs-vuetify-admin-template/?ref=376" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-Vuejs-Pro.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-Vuejs-Pro.jpg" alt="materialM-vue-admin-template" style="max-width:150px;">
   </a>
 </td>
   
