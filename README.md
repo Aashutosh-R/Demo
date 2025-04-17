@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-   <a href="https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/" target="_blank" align="center">
+   <a href="https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/?ref=376" target="_blank" align="center">
       MaterialM Free Tailwind Next.js Admin Template
    </a>
 </h1>
@@ -14,7 +14,7 @@
 <p align="center">Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
 
 
-[![materialM Free NextJs Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/2024/08/MaterialM_Free_version.jpg)](https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/)
+[![materialM Free NextJs Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/2024/08/MaterialM_Free_version.jpg)](https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/?ref=376)
 
 
 ## 👋 Introduction
@@ -99,7 +99,7 @@ npm run dev
 
 Welcome to the **MaterialM Free Tailwind Next.js Admin Template** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
 
-👉 **[Click here to read the full documentation](https://wrappixel.github.io/free-documentation-wp/nextjs/materialm/index.html)**
+👉 **[Click here to read the full documentation](https://wrappixel.github.io/free-documentation-wp/nextjs/materialm/index.html?ref=376)**
 
 
 ---
@@ -110,15 +110,15 @@ Welcome to the **MaterialM Free Tailwind Next.js Admin Template** documentation!
 The Pro Version of the **MaterialM Tailwind Next.js Admin Template** comes packed with essential features—ideal for personal projects, prototypes, or small-scale applications. When you're ready to level up, the Pro Version unlocks a powerful suite of extras, including multiple theme options, advanced UI widgets, real-time notifications, priority support, and a host of other premium tools designed to supercharge your development workflow.
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://material-m-nextjs-main.vercel.app/" target="_blank">
+  <a href="https://material-m-nextjs-main.vercel.app/?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Try_the_Demo-Click_Here-blue" alt="Try the Demo">
   </a>
-  <a href="https://www.wrappixel.com/templates/materialm-next-js-tailwind-dashboard-template/" target="_blank">
+  <a href="https://www.wrappixel.com/templates/materialm-next-js-tailwind-dashboard-template/?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Download_Now-Click_Here-green" alt="Download Now">
   </a>
 </div>
 
-[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2025/02/MaterialM-Nextjs_shad.jpg)](https://www.wrappixel.com/templates/materialm-next-js-tailwind-dashboard-template/)
+[![Modernize Free Bootstrap 5 Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2025/02/MaterialM-Nextjs_shad.jpg)](https://www.wrappixel.com/templates/materialm-next-js-tailwind-dashboard-template/?ref=376)
 
 
 
@@ -134,8 +134,8 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 
 | **Feature**                      | **Free Version**                       | **Pro Version**                                      |
 |-----------------------------------|----------------------------------------|-----------------------------------------------------|
-| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://materialm-tailwind-nextjs-free.vercel.app/)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://material-m-nextjs-main.vercel.app/)                                              |
-| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/materialm-next-js-tailwind-dashboard-template/)                                          |
+| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://materialm-tailwind-nextjs-free.vercel.app/?ref=376)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://material-m-nextjs-main.vercel.app/?ref=376)                                              |
+| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/?ref=376)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/materialm-next-js-tailwind-dashboard-template/?ref=376)                                          |
 | **Responsive Design**             | ✅ Yes                                 | ✅ Yes                                              |
 | **Pre-designed Pages**            | ✅ Basic Pages                         | ✅ Advanced Pages (more layouts & options)           |
 | **Widgets**                       | ✅ Basic Widgets                       | ✅ Advanced Widgets (e.g., weather, charts, maps)    |
@@ -178,17 +178,17 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/materialm-admin-dashboard-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/materialm-admin-dashboard-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/MaterialM-Bootstrap_latest.jpg" alt="" style="max-width:140px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/materialm-tailwind-react-admin-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/materialm-tailwind-react-admin-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/materialM-react-tailwind-pro.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/materialm-vuetify-nuxt-js-admin-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/materialm-vuetify-nuxt-js-admin-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/10/MaterialM-Nuxtjs-pro.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -211,12 +211,12 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/materialm-material-angular-dashboard-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/materialm-material-angular-dashboard-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-angular-pro-version.jpg" alt="" style="max-width:140px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/materialm-vuejs-vuetify-admin-template/" width="150px">
+  <a href="https://www.wrappixel.com/templates/materialm-vuejs-vuetify-admin-template/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/09/MaterialM-Vuejs-Pro.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -259,16 +259,16 @@ Follow these simple steps to start contributing:
 ---
 
 ## 🧭 Useful Links
-- <p><a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/">Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/bootstrap-templates/">Bootstrap Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/react-templates/">React Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/framer-templates/">Framer Templates</a> from Wrappixel</p>
--  <p><a href="https://www.wrappixel.com/templates/category/mui-templates/">Material UI Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/vuetify-templates/">Vuetify Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/nextjs-templates/">NextJs Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/nuxt-templates/">Nuxt Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/tailwind-dashboard/">Tailwind Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/?ref=376">Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/bootstrap-templates/?ref=376">Bootstrap Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/angular-templates/?ref=376">Angular Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/react-templates/?ref=376">React Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/framer-templates/?ref=376">Framer Templates</a> from Wrappixel</p>
+-  <p><a href="https://www.wrappixel.com/templates/category/mui-templates/?ref=376">Material UI Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/vuetify-templates/?ref=376">Vuetify Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nextjs-templates/?ref=376">NextJs Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nuxt-templates/?ref=376">Nuxt Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/tailwind-dashboard/?ref=376">Tailwind Templates</a> from Wrappixel</p>
 
 ---
 
