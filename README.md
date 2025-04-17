@@ -174,7 +174,9 @@ The **Free Version** of the **MaterialM Tailwind Next.js Admin Template** provid
 <tbody>
 <tr>
 <td>
+   <a href="https://www.wrappixel.com/all-access-pass/?ref=376" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/2025/04/all-access-pass-category-banner-1.png" alt="materialM-bootstrap-admin-template" style="max-width:140px;">
+   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/materialm-admin-dashboard-template/?ref=376" width="150px">
